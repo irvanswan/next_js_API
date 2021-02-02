@@ -1,5 +1,3 @@
-# next_js_API
-
 # Aplikasi web menggunakan Next JS dan untuk pengambilna datanya menggunakan fungsi Getstaticprops dan fetch
 
 # Alat - alat yang digunakan
