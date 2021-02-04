@@ -50,12 +50,52 @@
         Showing home page or file index.js
       </td>
     </tr>
+     <tr>
+      <td>
+        Posts
+      </td>
+      <td>
+        Showing Posts data API
+      </td>
+    </tr>
     <tr>
       <td>
         Comments
       </td>
       <td>
         Showing Comments data API
+      </td>
+    </tr>
+     <tr>
+      <td>
+        Albums
+      </td>
+      <td>
+        Showing Albums data API
+      </td>
+    </tr>
+     <tr>
+      <td>
+        Photos
+      </td>
+      <td>
+        Showing Photos data API
+      </td>
+    </tr>
+     <tr>
+      <td>
+        Todos
+      </td>
+      <td>
+        Showing Todos data API
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Users
+      </td>
+      <td>
+        Showing Users data API
       </td>
     </tr>
     <tr>
